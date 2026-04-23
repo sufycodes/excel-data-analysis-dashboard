@@ -48,14 +48,14 @@ An interactive dashboard was created to visualize:
 ## 📸 Screenshots
 
 ### Dashboard
-![Dashboard](screenshots/dashboard.png)
+![Dashboard](dashboard.png)
 
 
 ### Pivot Table
-![Pivot Table](screenshots/pivot-table.png)
+![Pivot Table](pivot-table.png)
 
 ### Charts
-![Charts](screenshots/charts.png)
+![Charts](charts.png)
 
 ---
 
